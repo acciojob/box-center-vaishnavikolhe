@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.parent{
+	background-color:lightblue;
+	border:2px solid black;
+	display:inline-block;
+	padding:100px;
+	color:purple;
+/* 	;
+	padding:50px;
+	margin:100px;
+	text-align:center;
+	align-items:center;
+/*  	padding:40px;
+	 */
+/* 	display:flex; */
+/* 	justify-containt:center;
+	width:250px;
+	height:250px; */ 
+}
